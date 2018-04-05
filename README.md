@@ -14,3 +14,7 @@ Add your own file name : id_myOwn
 ## README.md format and syntax
 
 [README.md syntax and formatting](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## Java .gitignore
+
+[.gitignore](https://github.com/github/gitignore/blob/master/Java.gitignore)
